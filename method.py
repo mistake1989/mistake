@@ -7,8 +7,8 @@ import requests
 import csv
 
 proxies = {'http': 'http://localhost:8888', 'https':'http://localhost:8888'}
-appSecret = 'poC9qXLf3OIykcc0UG9J8mJVdhotwCBJBNbjHQlZPaOj3dtjjxTwtsWThxpIq7NScTeQuWVRmtb'
-appKey = 'sDbTL7enygUJC3W4I2qyXPkSN13DY0PFDjyWStxIKvl3oVnAkZVUNKO4uO0tP4GHrZ85E8rBxT'
+appSecret = 'xxxxxLf3OIykcc0UG9J8mJVdhotwCBJBNbjHQlZPaOj3dtjjxTwtsWThxpIq7NScTeQuWVRmtb'
+appKey = 'xxxxgUJC3W4I2qyXPkSN13DY0PFDjyWStxIKvl3oVnAkZVUNKO4uO0tP4GHrZ85E8rBxT'
 key = 'BAQUAA4GNADCBiQKBgQCc0K89b8aY8wcnvd4UdnO054znkYoRhxUtFXAqVqlE6BuXYJOAMtu+bmCzy0/slncW9i7PezMCBZhl0BaLm4XCLqKTmxaSDSgbdr9wKhe5s5RURGbhSqon3fxmXuniyiMVzLQOMSkYDsOILyyCh18IBw/NbeBe5TbYphZecztM1QIDAQAB'
 
 #rsa加密
